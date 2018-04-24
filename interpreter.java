@@ -194,7 +194,7 @@ public class interpreter {
 						else
 						{
 							//s.push(text);
-							//System.out.println("fuckerrrrrr:"+text);
+							//System.out.println("hahahahahhah"+text);
 							s.push(":error:");
 						}
 					}
